@@ -1,0 +1,4 @@
+Results/
+table_*.txt
+.ipynb_checkpoints
+*.log
