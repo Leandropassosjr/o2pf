@@ -2,3 +2,10 @@ Results/
 table_*.txt
 .ipynb_checkpoints
 *.log
+plots/
+*.log.*
+__pycache__/
+ResultsEletrica/
+ResultsGeneral/
+data_multiclass/
+ResultsMedicina/
